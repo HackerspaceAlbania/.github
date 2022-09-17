@@ -5,7 +5,7 @@ Our community is based on hands on projects which makes it really helpful and ea
 
 ## Participating in the community
 
-We aim to create a welcoming and inclusive community. Something SPECIAL about our community is that there is no hierarchy. We are all equal. Anyone can act, do and say whatever they think its right to be discussed, improved or why not started. Yes, you heard that right, started. Basically, you are free to organize your own events and we are free to cooperate. As far as we are sharing and learning with each other, our level of knowledge will rise up progressively and that's what really matters at the end of the day. 😊
+We aim to create a welcoming and inclusive community. Something SPECIAL about our community is that there is no hierarchy. We are all equal. Anyone can act, do and say whatever they think its right to be discussed, improved or why not started. Yes, you heard that right, started. Basically, you are free to organize your own events and we are free to cooperate. As far as we are sharing and learning with each other, our level of knowledge will rise up progressively and that's what really matters at the end of the day 😊. Without any further ado join our [discord](https://discord.gg/H5hxxUfrGr) server.
 
 
 <!--
