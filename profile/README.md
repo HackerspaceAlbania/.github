@@ -1,7 +1,15 @@
 # Hackerspace Albania
 
-HSA is a community created to push forward the level of knowledge and also help Albania make big steps in tech related fields. 
-Our community is based on hands on projects which makes it really helpful and easy to learn new technologies and languages. We make workshops/practical based lessons/community projects and much more.
+## What is Hackerspace Albania
+
+Hackerspace Albania (HSA) is a community-led space comprised of members that are enthusiastic to create, help facilitate the acquisition of knowledge, skills and share their learning experience with the community. We achieve that by the use of shared spaces, tools and the resources provided or donated by its community memebers or private entities. Our aim is to foster the spread of knowledge, skill transfer and community involvement primarliy with technology-related matters and broader. The long-term vision is to help creators, innovators and entrepreneurs in Albania to make big steps in advancing further high-tech technologies, entrepreneurship and social involvement.
+
+Currently, we organize knowledge sharing via webinars, events, and guest speakers that are mainly community-led, and skill acquisition through involvement in community-chosen projects. We believe a community centered on hands-on-projects facilitates the learning process, and the acquisiion of new skills, use of tools & technologies and programming languages to building a strong skillset. Thus, to help and support our community we organize on-site and online workshops, applied projects, and share the experience through organized webinars, podcasts or presentations. So, if you feel passionate and share common interests with us we welcome you to become part of the community by joining our space. 
+
+
+become part of our Discord server: https://discord.gg/3WkzZMYf
+
+
 
 ## Participating in the community
 
